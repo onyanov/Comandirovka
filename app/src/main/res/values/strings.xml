@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Командировка</string>
+
+    <string name="date_from_label">C</string>
+    <string name="date_to_label">По</string>
+    <string name="document_number">Номер командировочного удостоверения</string>
+    <string name="daily_salary">Суточные</string>
+    <string name="with_place">С проживанием</string>
+    <string name="show_result_button">Показать расчет</string>
+</resources>
